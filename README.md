@@ -1,3 +1,6 @@
+# Note
+This is the same as the official geolocation plugin. I just commented out the onPause and onResume handlers in the main plugin file for android because they were interfering with what I was trying to do.
+
 # @capacitor/geolocation
 
 The Geolocation API provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
